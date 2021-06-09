@@ -1,0 +1,7 @@
+variable "location" {
+  
+}
+
+variable "name" {
+  
+}
